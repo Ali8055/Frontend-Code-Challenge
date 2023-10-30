@@ -33,7 +33,7 @@ const TableFooter = () => {
   return (
     <div className="flex w-full justify-end border-t-2">
       <div className="text-center font-bold w-1/4">
-        <h2> Gross Total</h2>
+        <h2> Gross Total : </h2>
       </div>
       <div className="text-center w-1/4">
         <h2>{total}</h2>
